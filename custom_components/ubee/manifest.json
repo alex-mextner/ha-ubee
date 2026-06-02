@@ -4,7 +4,7 @@
   "version": "1.1.0",
   "documentation": "https://github.com/kevinhaendel/ha-ubee",
   "issue_tracker": "https://github.com/kevinhaendel/ha-ubee/issues",
-  "requirements": ["pyubee==0.15"],
+  "requirements": [],
   "dependencies": [],
   "codeowners": ["@mzdrale", "@kevinhaendel"]
 }

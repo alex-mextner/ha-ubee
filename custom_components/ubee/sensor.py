@@ -23,7 +23,8 @@ from datetime import timedelta
 from typing import Any
 
 import voluptuous as vol
-from pyubee import Ubee
+
+from .pyubee import Ubee
 
 from homeassistant.components.sensor import PLATFORM_SCHEMA, SensorEntity
 from homeassistant.const import CONF_HOST, CONF_PASSWORD, CONF_USERNAME
