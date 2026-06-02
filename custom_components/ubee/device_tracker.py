@@ -2,8 +2,9 @@
 
 import logging
 
-from pyubee import Ubee
 import voluptuous as vol
+
+from .pyubee import Ubee
 
 from homeassistant.components.device_tracker import (
     DOMAIN,
